@@ -1,1 +1,49 @@
+{
+  "default": {
+    "slug": "default",
+    "nombre_negocio": "Red de Emprendedores Criss Lombeida",
+    "titulo": "Tu negocio merece estar en Internet",
+    "descripcion": "Creamos páginas web gratuitas para emprendedores locales, ayudándoles a vender más y llegar a nuevos clientes.",
+    "whatsapp": "593999999999",
+    "ciudad": "Shushufindi, Ecuador",
+    "tipo_negocio": "Directorio de emprendedores",
+    "color_principal": "#0ea5e9",
+    "frase_impacto": "Cuando ayudas a un emprendedor, mueves la economía de toda una ciudad."
+  },
 
+  "cerrajeriatotti": {
+    "slug": "cerrajeriatotti",
+    "nombre_negocio": "Cerrajería Totti",
+    "titulo": "Cerrajería rápida 24/7 en Shushufindi",
+    "descripcion": "Apertura de puertas, duplicado de llaves, candados y solución a emergencias las 24 horas.",
+    "whatsapp": "593989898989",
+    "ciudad": "Shushufindi",
+    "tipo_negocio": "Cerrajería",
+    "color_principal": "#f97316",
+    "frase_impacto": "Cuando pierdes la llave, nosotros te abrimos la puerta."
+  },
+
+  "valuchocobananas": {
+    "slug": "valuchocobananas",
+    "nombre_negocio": "Valú Chocobananas",
+    "titulo": "Las chocobananas más ricas de la ciudad",
+    "descripcion": "Postres congelados, chocobananas personalizadas y dulces para eventos especiales.",
+    "whatsapp": "593979797979",
+    "ciudad": "Lago Agrio",
+    "tipo_negocio": "Postres y chocobananas",
+    "color_principal": "#ec4899",
+    "frase_impacto": "La vida es más dulce con una chocobanana en la mano."
+  },
+
+  "apikai": {
+    "slug": "apikai",
+    "nombre_negocio": "Apikai Regalo de Dios",
+    "titulo": "Turismo, piscinas y descanso en medio de la naturaleza",
+    "descripcion": "Complejo turístico con piscinas, cabañas, restaurante y ambiente familiar en la Amazonía.",
+    "whatsapp": "593968686868",
+    "ciudad": "Shushufindi",
+    "tipo_negocio": "Turismo y recreación",
+    "color_principal": "#22c55e",
+    "frase_impacto": "Desconéctate del ruido, conéctate con la naturaleza."
+  }
+}
